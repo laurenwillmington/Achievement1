@@ -1,0 +1,13 @@
+.pokemon{
+    border: 2px solid black;
+    background-color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*.pokeimage
+{
+    background:URL('https://wall.alphacoders.com/big.php?i=481903');
+    width:200px;
+    height:200px;
+}//
